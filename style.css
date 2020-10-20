@@ -85,3 +85,20 @@
           max-width: 60%;
           margin: auto;
       }
+
+      .student-testimonial {
+          margin: auto;
+          width: 80%;
+      }
+
+      .student-container {
+          width: 30%;
+          text-align: center;
+          margin: 10px;
+          display: inline-block;
+          vertical-align: middle;
+      }
+
+      .student-container p {
+          margin: 10px 0;
+      }
