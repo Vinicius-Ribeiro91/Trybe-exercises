@@ -29,6 +29,8 @@
         line-height: 42px;
         font-weight: 600;
         font-size: 28px;
+        margin-top: 10px;
+        margin-bottom: 60px;
       }
 
       .testimonial-name {
@@ -72,4 +74,14 @@
       .header-text p {
           margin-bottom: 30px;
 
+      }
+
+      .market {
+          padding: 70px 30px;
+          text-align: center;
+      }
+
+      .market-text {
+          max-width: 60%;
+          margin: auto;
       }
